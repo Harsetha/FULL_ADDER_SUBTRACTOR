@@ -51,10 +51,12 @@ RegisterNumber:212223220032
 ```
 
 **Full Adder:**
+
 ![316295970-0884a268-00d4-43b9-96b8-1b79335fe773](https://github.com/Harsetha/FULL_ADDER_SUBTRACTOR/assets/149985878/13ad585a-5897-4dbc-9902-eb48d28148fe)
 
 
 **Full Subtractor**
+
 ![316295975-b416bc1e-5abe-4edc-9e1c-0958f0b1ad86](https://github.com/Harsetha/FULL_ADDER_SUBTRACTOR/assets/149985878/58f70c19-ea27-4e76-bf07-17bbd629b835)
 
 
