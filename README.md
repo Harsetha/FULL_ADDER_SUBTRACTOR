@@ -62,6 +62,7 @@ RegisterNumber:212223220032
 
 **RTL Schematic**
 
+
 **Full Adder:**
 ![316296022-a8fec4ef-013e-4ab6-9ece-32edb9b7a839](https://github.com/Harsetha/FULL_ADDER_SUBTRACTOR/assets/149985878/80eb2853-73cf-4c55-902f-82016851a498)
 
@@ -71,6 +72,7 @@ RegisterNumber:212223220032
 
 
 **Output Timing Waveform**
+
 
 **Full Adder:**
 ![316296037-9ac232ab-b295-4ab7-8afe-671951daa081](https://github.com/Harsetha/FULL_ADDER_SUBTRACTOR/assets/149985878/af20fb42-fe77-4d32-b260-d23b57e5c11c)
